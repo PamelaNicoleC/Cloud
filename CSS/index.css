@@ -1,0 +1,44 @@
+/*inicio{
+--opacidad-negro: 0.5;
+background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/fondo1.webp");
+background-position: center;
+background-size: cover;
+height:30rem;  
+}*/
+ .men{
+    .card{
+        width: 18rem;
+        border-radius: 30px;
+    }
+    .card-title{
+        font-size: 1.5rem;
+    }
+ }
+ .mujer{
+    .card{
+        width: 18rem;
+        border-radius: 30px;
+    }
+    .card-title{
+        font-size: 1.5rem;
+    }
+ }
+ .header .navbar  {
+    padding-left: 360px;
+    background-color: transparent  !important;
+    background-size: cover;
+    font-style: italic;
+     }
+    .carousel {
+    background-size: cover;
+    min-height: 50vh;
+    min-width: fit-content;    
+        }    
+   .carrito{
+    min-height: fit-content;
+    min-width: none;
+   }
+   .bg-dark {
+    background-color: rgb(228, 229, 231) !important;
+   }
+   
